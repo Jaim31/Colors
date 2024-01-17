@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(53, 75, 75);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.container{
+    background-color:black;
+    color:rgb(103, 148, 148);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    border-radius: 5%;
+    padding: 5%;
+    margin-top: 5%;
+}
+
+.container-p{
+    font-size: larger;
+    color: rgb(7, 187, 187);
+}
+
+.container-button{
+    border-radius: 5%;
+    border-style: none;
+    width: 50%;
+    height: 40pt;
+    font-size:100%;
+    color: rgb(112, 211, 211);
+    background-color: black;
+}
+
